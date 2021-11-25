@@ -14,3 +14,9 @@ pipenv run jupyter notebook
 ```
 
 Y abrir Jupyter Notebook en la dirección que indique la terminal. Por defecto es: `localhost:8889`.
+
+## Autores
+
+* Garijo, Alfredo Carlos
+* Perez Sardi, Walter Gabriel
+* Pereyra, Agustín Ezequil
